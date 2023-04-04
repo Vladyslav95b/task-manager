@@ -1,0 +1,20 @@
+[
+    {
+        "email": "admin@gmail.com",
+        "name": "admin",
+        "password": "12345678",
+        "age": 27
+    },
+    {
+        "email": "vlad@gmail.com",
+        "name": "vlad",
+        "password": "12341234",
+        "age": 27
+    },
+    {
+        "email": "guest@gmail.com",
+        "name": "guest",
+        "password": "87654321",
+        "age": 99
+    }
+]
